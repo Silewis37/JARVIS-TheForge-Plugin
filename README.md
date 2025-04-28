@@ -1,5 +1,12 @@
 # JARVIS-TheForge-Plugin
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange.svg)
+![Ollama](https://img.shields.io/badge/Ollama-Compatible-brightgreen)
+![LLAMA](https://img.shields.io/badge/LLAMA%203-7B%2F13B%2F70B-important)
+![Status](https://img.shields.io/badge/Status-Under%20Active%20Development-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 ## Jarvis - EchoMind Assistant Plugin (The Forge)
 
 Welcome to the **Jarvis - EchoMind Assistant Plugin** repository!
